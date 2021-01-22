@@ -1,0 +1,1 @@
+This enables the Dvorak Spanish keyboard layout in Chrome OS, as `setxkbmap 'dvorak' 'es'`
